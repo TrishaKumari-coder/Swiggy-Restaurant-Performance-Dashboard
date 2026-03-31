@@ -43,7 +43,7 @@ The following Key Performance Indicators are displayed:
 - **Total Restaurants:** 8673  
 - **Average Rating:** 3.7  
 - **Average Delivery Time:** 54 minutes  
-- **Total Ratings:** ₹ 13,58,600  
+- **Total Ratings:**  13,58,600  
 
 These KPIs provide a high-level overview of overall restaurant ecosystem performance.
 
