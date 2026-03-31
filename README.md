@@ -23,7 +23,7 @@ The project includes both the raw dataset and a fully developed Excel dashboard 
 Contains restaurant-level transactional and performance data.
 
 🔗 **Raw Dataset Link:**  
-https://github.com/your-username/your-repository-name/blob/main/swiggy_project.csv  
+https://github.com/TrishaKumari-coder/Swiggy-Restaurant-Performance-Dashboard/blob/main/swiggy%5B1%5D.csv
 
 ---
 
